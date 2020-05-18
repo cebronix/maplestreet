@@ -6,10 +6,8 @@ if(global.sel_race != p_race.splice) {
 } else {
 
 //draw the sprite as mix and match
-	draw_sprite_ext(global.rl_sprite, image_index, x, y, 1, 1, 0, c_white, 1);
-	draw_sprite_ext(global.ll_sprite, image_index, x, y, 1, 1, 0, c_white, 1);
+	draw_sprite_ext(global.legs_sprite, image_index, x, y, 1, 1, 0, c_white, 1);
 	draw_sprite_ext(global.t_sprite, image_index, x, y, 1, 1, 0, c_white, 1);
-	draw_sprite_ext(global.ta_sprite, image_index, x, y, 1, 1, 0, c_white, 1);
 	draw_sprite_ext(global.ra_sprite, image_index, x, y, 1, 1, 0, c_white, 1);
 	draw_sprite_ext(global.la_sprite, image_index, x, y, 1, 1, 0, c_white, 1);
 	draw_sprite_ext(global.h_sprite, image_index, x, y, 1, 1, 0, c_white, 1);

@@ -6,12 +6,12 @@
     "children": [
         "965a9fbe-cb58-42ed-aa62-43f6f2c2d840",
         "cba9710c-8acb-4f8a-90b5-9b5526b596ee",
-        "2a2e8d41-9ad4-43bf-b78d-c30ecb1396b2",
-        "d496fed0-82a9-4c90-8131-5ea6aed9a8c9",
-        "1c19197b-2792-4a6f-8d03-0d5f0fc75777",
-        "b3139c23-666d-4bb9-a5db-ce849604b633",
-        "b4e8108d-a7e8-41f5-a3da-11fb399e2d01",
-        "9248d951-1ce6-4e2c-b489-184a8beefb42"
+        "f7336f7d-7611-4a1e-8cd3-b987d300bab7",
+        "57ff265c-f933-4732-838c-da3bfc57da82",
+        "7a3f0148-93d9-45b6-8c53-15e79f5f3b30",
+        "75618eff-07c9-46c9-abb5-d3afbc23a723",
+        "a63525aa-d762-40d6-9e28-f0a0f2577d7a",
+        "3cf07a4f-ffd0-4b7a-91b2-7e5649a27fcb"
     ],
     "filterType": "GMSprite",
     "folderName": "robot",

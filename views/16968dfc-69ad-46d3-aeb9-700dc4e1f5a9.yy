@@ -4,14 +4,14 @@
     "mvc": "1.1",
     "name": "16968dfc-69ad-46d3-aeb9-700dc4e1f5a9",
     "children": [
-        "6077f5fa-896d-4a41-ba9a-68e11a32019a",
-        "95add821-a7d9-4485-94f8-096b5ed302d7",
-        "d9e5d3ab-14aa-4aab-94d3-bfa010f85057",
-        "6b348bd8-db62-4d96-8492-be707c06e8dd",
-        "5ade1381-14e6-4230-abf0-d7957c802820",
-        "9804df79-ae22-41aa-b8f7-fcd42f2bb28b",
-        "549dab25-c7df-4ab5-8ca7-6c797ede5dcc",
-        "379d2e0b-c81d-4ad3-ab00-c906a3e95f35"
+        "fa2844ba-96fd-4114-bc87-c484f1c89370",
+        "dfff7ec9-9cae-46f8-9cad-928bb3a510a1",
+        "8597162e-ee3c-4fc7-9d9b-2d38f927b315",
+        "680ba39f-be7b-48c0-9884-3178789c8389",
+        "6d6d49fe-d6bf-44a4-9587-87e7233f5386",
+        "d5292c73-4a1b-4341-bfda-4dd8d1a1e160",
+        "9db68d0e-0f50-49a1-8172-14e68d315ed4",
+        "8e458076-9eb3-4f0b-a8fc-90c76bb9ebf7"
     ],
     "filterType": "GMSprite",
     "folderName": "squid",

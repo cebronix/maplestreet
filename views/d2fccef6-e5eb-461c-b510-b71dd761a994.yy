@@ -7,8 +7,7 @@
         "52a02f08-564e-4e42-8e18-3c4241e46567",
         "ad78345d-beca-4331-8d74-7474fe50de93",
         "5be517eb-a214-4015-9152-f3cb8cb9e9dd",
-        "42595c8b-8b5d-47ac-8872-6ba3c3738a36",
-        "fd08ad27-112d-4e88-b7c5-cab660b69fbb"
+        "42595c8b-8b5d-47ac-8872-6ba3c3738a36"
     ],
     "filterType": "GMSprite",
     "folderName": "left_arm",

@@ -4,14 +4,14 @@
     "mvc": "1.1",
     "name": "90da0696-7d91-4851-89cd-870860abffa2",
     "children": [
-        "a3e2b4c8-c733-43b9-8d36-929f2fa3451b",
-        "ec790ee0-3018-43d8-9bd4-6a518c2d40b0",
-        "97a1b2d9-b12d-48ae-8d1a-ea64477aa2c6",
-        "0a1ddf80-1199-4014-821c-3d1fb3f081e4",
-        "92df14c6-0ea8-4b08-8f53-571a3fa307e6",
-        "8a97ab0f-09ad-460a-99e3-07e56df3f64b",
-        "15911c7c-e75e-4d83-887c-e1c23cb8b4fb",
-        "93a00ae6-3c24-4591-9ae8-9fbcdc2ff577"
+        "88c26ee4-22f3-4fa4-9c0d-84c38cf0e0c4",
+        "8ff28cb9-9c8d-4270-a349-34be8aa78702",
+        "d73ffefb-580a-4f73-96c2-49c1f956c2f8",
+        "a38c24ef-44c3-4df3-bcf3-42a2d6bd3a54",
+        "567944ee-0f8f-450d-9e6b-c1477ef25ceb",
+        "196b7aad-d7a8-463a-b836-26794eeb38bc",
+        "ca98dbe0-ba50-4288-a0c3-42b2d0ad3e3d",
+        "2e785a23-c4c0-477f-a547-b007dca8199f"
     ],
     "filterType": "GMSprite",
     "folderName": "bug",

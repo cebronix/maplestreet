@@ -1,10 +1,14 @@
 /// @description 
 
-selected = !selected;
-if(selected == true) {
-	global.sel_spl_part = spl_part.h;
-	image_blend = make_colour_hsv(255, 255, random(255));
-} else {
-	global.sel_spl_part = spl_part.noone;
-	image_blend = make_colour_hsv(255, 255, 255);
+if (global.create_index == 2) {
+	selected = !selected;
+	if(selected == true) {
+		global.sel_spl_part = spl_part.h;
+		image_blend = c_black;
+		global.partIsSelected = true;
+	} else {
+		global.sel_spl_part = spl_part.noone;
+		image_blend = c_white;
+		global.partIsSelected = false;
+	}
 }

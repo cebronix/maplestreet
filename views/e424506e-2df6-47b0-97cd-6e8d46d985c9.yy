@@ -6,12 +6,12 @@
     "children": [
         "193af2cb-0988-41bb-84a2-c40483471bb4",
         "7816bf19-98dd-42c3-ad35-753c4647642e",
-        "a1735718-b358-45e5-8e95-b213033ed286",
-        "3c4f6fa5-a55b-4a09-85e9-3062eca0515f",
-        "8be470a0-5bfb-4665-9dd3-8ce803c68b7d",
-        "34082c0c-bb65-4d68-a9cd-2102d5bcc82d",
-        "62dcd099-dd75-410c-9756-a1fc65715dfb",
-        "812a91d8-1150-4cb1-b8cb-1a0b27a16001"
+        "6231b5a8-8060-4c21-a715-b4c63952d5da",
+        "3e44f188-9eb4-4f7c-8257-7e3acc563e7a",
+        "1b34232b-6419-4f1d-ac9c-23c8f4558dae",
+        "61e924e3-5fb3-4824-b626-6f9845351a5c",
+        "ef2afe3a-64d8-4cc9-9250-4aba78bf096f",
+        "cd075d21-c18e-4346-b3d8-ce39ffdbee3c"
     ],
     "filterType": "GMSprite",
     "folderName": "squid",

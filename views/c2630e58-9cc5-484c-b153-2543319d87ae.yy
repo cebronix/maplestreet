@@ -4,14 +4,14 @@
     "mvc": "1.1",
     "name": "c2630e58-9cc5-484c-b153-2543319d87ae",
     "children": [
-        "17a3e1f4-6ea7-4d2b-9005-5f8f6a8f81bb",
-        "15a83c4c-be73-46cb-8dc4-a41da3b91c67",
-        "42eecd2b-5127-4715-9c81-d66eb05130c0",
-        "d707e0ee-9f13-4d86-8db1-752ae85c1840",
-        "1cdfffe0-5ff7-4f15-9f28-b34c431960c1",
-        "d96cb293-0219-4f7d-a67b-01d06c0955d0",
-        "ca27d3ad-f01a-48d6-b306-c8bdc47a0909",
-        "393e31db-a9a7-4274-ad8b-619f958da705"
+        "47bec362-33de-4286-9cef-28352ca9783f",
+        "e8af3437-94de-45fb-94e2-c6820c871e96",
+        "f387cd10-0a24-49a5-8806-06bc45818715",
+        "b76e5ccd-9079-4125-a632-5f3c6234c7f3",
+        "1457a024-cc8a-41cd-ae03-987835d76139",
+        "646cff0d-e2cb-49ed-a2a1-15bdf63852c0",
+        "201ec907-4df2-473b-8718-31eaca43e7b7",
+        "26ad0c60-208a-4e55-83c1-876ab7bdb4de"
     ],
     "filterType": "GMSprite",
     "folderName": "energy",
