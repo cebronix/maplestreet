@@ -1,0 +1,14 @@
+Converting GML script: ${project_dir}\scripts\is_mouse_here\is_mouse_here.gml
+Converted description /// @description  is_mouse_here(x1,y1,x2,y2);/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+
+Converting GML script: ${project_dir}\objects\objColorPicker\Create_0.gml
+Converted description /// @description  INITIALISE VARIABLES
+
+Converting GML script: ${project_dir}\objects\objColorPicker\Step_0.gml
+Converted description /// @description  CHECK THE MOUSE INPUT
+
+Converting GML script: ${project_dir}\objects\objColorPicker\Draw_0.gml
+Converted description /// @description  DRAW THE COLOR PICKER

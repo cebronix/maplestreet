@@ -1,5 +1,7 @@
 /// @description 
 
+/// @description 
+
 if (global.nameEditOpen == false) {
 
 	if (global.create_index == 0) or (global.nameHasBeenEdited == true) {

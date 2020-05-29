@@ -21,7 +21,7 @@ if (global.nameEditOpen == false) {
 			part_loc_y = 290;
 		break;
 	}
-
+	
 	if (global.create_index != last_selected) {
 		part_particles_create(particle_effects, part_loc_x, part_loc_y, box_flash, 1);
 	}

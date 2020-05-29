@@ -28,7 +28,7 @@ if (global.create_index != 1) && (global.raceHasBeenSelected == false) {
 			global.p_grid = robot_grid;
 			draw_text_colour(210, 193, "ROBOT", c_white, c_white, c_white, c_white, 1);
 			global.p_sprite = ds_grid_get(global.p_grid,xx,yy);
-			draw_sprite_ext(global.p_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
+			draw_sprite_ext(global.p_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
 			global.create_rows = 2;
 		break;
 	
@@ -36,7 +36,7 @@ if (global.create_index != 1) && (global.raceHasBeenSelected == false) {
 			global.p_grid = squid_grid;
 			draw_text_colour(210, 193, "SQUID", c_white, c_white, c_white, c_white, 1);
 			global.p_sprite = ds_grid_get(global.p_grid,xx,yy);
-			draw_sprite_ext(global.p_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
+			draw_sprite_ext(global.p_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
 			global.create_rows = 2;
 		break;
 	
@@ -44,7 +44,7 @@ if (global.create_index != 1) && (global.raceHasBeenSelected == false) {
 			global.p_grid = energy_grid;
 			draw_text_colour(200, 193, "ENERGY", c_white, c_white, c_white, c_white, 1);
 			global.p_sprite = ds_grid_get(global.p_grid,xx,yy);
-			draw_sprite_ext(global.p_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
+			draw_sprite_ext(global.p_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
 			global.create_rows = 2;
 		break;
 	
@@ -52,7 +52,7 @@ if (global.create_index != 1) && (global.raceHasBeenSelected == false) {
 			global.p_grid = bug_grid;
 			draw_text_colour(225, 193, "BUG", c_white, c_white, c_white, c_white, 1);
 			global.p_sprite = ds_grid_get(global.p_grid,xx,yy);
-			draw_sprite_ext(global.p_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
+			draw_sprite_ext(global.p_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
 			global.create_rows = 2;
 		break;
 	#endregion
@@ -205,12 +205,12 @@ if (global.create_index != 1) && (global.raceHasBeenSelected == false) {
 			break;
 			}
 			//Draw the parts
-			draw_sprite_ext(global.legs_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
-			draw_sprite_ext(global.t_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
-			draw_sprite_ext(global.ra_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
-			draw_sprite_ext(global.la_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
-			draw_sprite_ext(global.h_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
-			draw_sprite_ext(global.ha_sprite, image_index, 665, 265, 2, 2, 0, c_white, 1);
+			draw_sprite_ext(global.legs_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
+			draw_sprite_ext(global.t_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
+			draw_sprite_ext(global.ra_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
+			draw_sprite_ext(global.la_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
+			draw_sprite_ext(global.h_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
+			draw_sprite_ext(global.ha_sprite, image_index, 665, 265, 2, 2, 0, global.player_color, 1);
 		break;
 	}
 	#endregion

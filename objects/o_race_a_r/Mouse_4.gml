@@ -4,4 +4,6 @@ if (global.create_index == 1) {
 	if (global.sel_race > 4) {
 		global.sel_race = 0;
 	}
+} else {
+	global.create_index = 1;
 }

@@ -3,6 +3,7 @@
 image_speed = 0.02;
 xx = 0;
 yy = 0;
+global.player_color = c_white;
 
 //Create ds_grids for full sprites
 #region Robot
@@ -339,10 +340,20 @@ enum spl_part_race {
 global.sel_spl_part_race = spl_part_race.robot;
 
 //Set default Splice parts 
-global.legs_sprite = ds_grid_get(global.legs_grid, xx+1, yy);
-global.la_sprite = ds_grid_get(global.la_grid, xx+3, yy);
-global.ra_sprite = ds_grid_get(global.ra_grid, xx, yy);
-global.t_sprite = ds_grid_get(global.t_grid, xx+2, yy);
-global.h_sprite = ds_grid_get(global.h_grid, xx+1, yy);
-global.ha_sprite = ds_grid_get(global.ha_grid, xx+3, yy);
+
+global.legs = 1;
+global.la = 3;
+global.ra = 0;
+global.t = 2;
+global.h = 1;
+global.ha = 3;
+
+
+global.legs_sprite = ds_grid_get(global.legs_grid, global.legs, yy);
+global.la_sprite = ds_grid_get(global.la_grid, global.la, yy);
+global.ra_sprite = ds_grid_get(global.ra_grid, global.ra, yy);
+global.t_sprite = ds_grid_get(global.t_grid, global.t, yy);
+global.h_sprite = ds_grid_get(global.h_grid, global.h, yy);
+global.ha_sprite = ds_grid_get(global.ha_grid, global.ha, yy);
+
 
